@@ -137,7 +137,7 @@ Shows what percentage of your reads are duplicates.
 - <30% duplication: Excellent
 - 30-50% duplication: Good for ChIP-seq
 - 50-70% duplication: Acceptable but may reduce peak resolution
-- >70% duplication: Concerning, may indicate over-amplification
+- />70% duplication: Concerning, may indicate over-amplification
 
 #### 6. Adapter Content
 Shows contamination with sequencing adapters.
