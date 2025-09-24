@@ -632,5 +632,3 @@ BigWig generation is complete when:
 - [ ] Browser session files created for IGV and UCSC
 - [ ] Multi-resolution tracks available for different zoom levels
 - [ ] Validation summary completed and documented
-
-**Ready for Bonus Step B: Data Visualization** to create publication-quality figures and comprehensive visualizations of the ChIP-seq results!
